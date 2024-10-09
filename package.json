@@ -1,0 +1,19 @@
+{
+  "name": "cloudnativeapp",
+  "version": "1.0.0",
+  "description": "Este é um projeto de aplicativo nativo de cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regisfd/cloudnativeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regisfd/cloudnativeapp/issues"
+  },
+  "homepage": "https://github.com/regisfd/cloudnativeapp#readme"
+}
